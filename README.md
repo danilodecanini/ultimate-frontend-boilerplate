@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install before getting started
 
 ```
-Install [NPM](https://www.npmjs.com/get-npm)
+Install NPM
 ```
 
 Be sure that you can deal with the npm scripts that is essential
